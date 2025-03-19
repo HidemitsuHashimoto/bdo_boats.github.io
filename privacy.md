@@ -1,5 +1,5 @@
-Privacy Policy
-Introduction
+# Privacy Policy
+## Introduction
 Our privacy policy will help you understand what information we collect at BDO Boats App, how BDO Boats App uses it, and what choices you have. BDO Boats App built the BDO Boats app as a free app. This SERVICE is provided by BDO Boats App at no cost and is intended for use as is. We do not collect any personal information. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
